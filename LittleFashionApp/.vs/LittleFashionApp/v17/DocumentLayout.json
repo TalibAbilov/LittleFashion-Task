@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\littlefashionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\littlefashionapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|c:\\users\\asus\\source\\repos\\littlefashionapp\\littlefashionapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{70122E73-FED1-4122-BCE7-06D6F6D19AEC}|LittleFashionApp\\LittleFashionApp.csproj|solutionrelative:littlefashionapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeVm.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\ViewModels\\HomeVm.cs",
+              "RelativeDocumentMoniker": "LittleFashionApp\\ViewModels\\HomeVm.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\ViewModels\\HomeVm.cs",
+              "RelativeToolTip": "LittleFashionApp\\ViewModels\\HomeVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:17:16.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Models\\Slider.cs",
+              "RelativeToolTip": "LittleFashionApp\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:05:30.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Models\\Product.cs",
+              "RelativeToolTip": "LittleFashionApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:38:11.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\appsettings.json",
+              "RelativeDocumentMoniker": "LittleFashionApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\appsettings.json",
+              "RelativeToolTip": "LittleFashionApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T13:24:46.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Program.cs",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Program.cs",
+              "RelativeToolTip": "LittleFashionApp\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:22:36.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LittleFashionApp\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "LittleFashionApp\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:19:35.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LittleFashionApp",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\LittleFashionApp.csproj",
+              "RelativeDocumentMoniker": "LittleFashionApp\\LittleFashionApp.csproj",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\LittleFashionApp.csproj",
+              "RelativeToolTip": "LittleFashionApp\\LittleFashionApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T13:19:07.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LittleFashionApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T13:18:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LittleFashionApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T13:18:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LittleFashionApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAgwJIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T13:18:21.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LittleFashionApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T13:17:46.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LittleFashionApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\asus\\source\\repos\\LittleFashionApp\\LittleFashionApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LittleFashionApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:17:26.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
